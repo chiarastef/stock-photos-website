@@ -4,11 +4,11 @@ Course exclusive project from [React Projects](https://react-projects.netlify.ap
 
 ## Link
 
-- [Project URL]() (hosted on Netlify)
+- [Project URL](https://stock-photos-website-react.netlify.app/) (hosted on Netlify)
 
 ## Screenshot
 
-<!-- <img src="./screenshots/-preview.png" alt="Stock photos website preview" width="650px"> -->
+<img src="./screenshots/stock-photos-website-preview.png" alt="Stock photos website preview" width="600px">
 
 ## Project
 
